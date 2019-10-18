@@ -1,13 +1,13 @@
 # Search-Repositories
 Aplicação com ES6 + Webpack + Babel para buscar repositórios no GitHub
 
-# Requisitos
+## Requisitos
 É necessário ter o YARN instalado em seu SO > [Como instalar o Yarn](https://yarnpkg.com/pt-BR/docs/install)
 
-# Iniciar
+## Iniciar
 - Abra o terminal na raíz do projeto e execute o comando 
 ``` yarn dev ```
 
-# Para gerar o build
+## Para gerar o build
 - Abra o terminal na raíz do projeto e execute o comando
 ``` yarn build ```
